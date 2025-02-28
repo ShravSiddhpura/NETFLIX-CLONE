@@ -110,7 +110,7 @@ nav{
     color: aliceblue;
 }
 .hero{
-    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url("header-image.jpg"); 
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url("https://imgur.com/a/oLn89BT"); 
     height: 80vh;
     width: 100%;
     /*opacity: 0.4;
