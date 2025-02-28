@@ -118,7 +118,7 @@ nav{
     color: aliceblue;
 }
 .hero{
-    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url("https://imgur.com/a/HRRp1Ib"); 
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url('https://imgur.com/a/HRRp1Ib'); 
     height: 80vh;
     width: 100%;
     /*opacity: 0.4;
